@@ -1,0 +1,6 @@
+OrderID,Customer,Product,Category,Quantity,Price,OrderDate
+1001,Alice,Laptop,Electronics,1,1200,2025-01-10
+1002,Bob,Mouse,Accessories,2,25,2025-01-12
+1003,Charlie,Monitor,Electronics,1,300,2025-01-14
+1004,David,Keyboard,Accessories,3,45,2025-01-15
+1005,Eva,Headphones,Accessories,2,85,2025-01-16
